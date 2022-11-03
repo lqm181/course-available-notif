@@ -1,1 +1,1 @@
-# course-reg-notif
+# course-available-notif
